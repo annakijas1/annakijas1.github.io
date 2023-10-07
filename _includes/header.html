@@ -40,7 +40,8 @@
                 </a>
               </li>
               {% if site.blog_nav_title %}
-              <!-- Blog -->
+
+              <!-- Blog-->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
                   {%- if page.url contains 'blog' -%}
@@ -96,4 +97,16 @@
           </div>
         </div>
       </nav>
+        
+       
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3H2K3B2CHC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3H2K3B2CHC');
+</script>
+
     </header>

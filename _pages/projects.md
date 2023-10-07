@@ -1,13 +1,15 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
-nav_order: 1
-display_categories: [work, fun]
+nav_order: 2
 horizontal: false
 ---
+
+This is a selection of my projects. Additional projects are listed in [my C.V.](https://annakijas1.github.io/assets/pdf/2022-Kijas_CV.pdf)
+
 
 <!-- pages/projects.md -->
 <div class="projects">
