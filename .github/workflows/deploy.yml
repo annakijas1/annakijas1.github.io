@@ -22,10 +22,15 @@ jobs:
       with:
         ruby-version: '3.0.2'
 
-    - name: Install Python 2
+    - name: Install pyenv and Python 2
       run: |
-        sudo apt-get update
-        sudo apt-get install -y python2
+	curl https://pyenv.run | bash
+	export PATH="$HOME/.pyenv/bin:$PATH"
+	eval "$(pyenv init --path)"
+	eval "$(pyenv init -)"
+	eval "$(pyenv virtualenv-init -)"
+	pyenv install 2.7.18
+	pyenv global 2.7.18
 
     - name: Install dependencies
       run: |
