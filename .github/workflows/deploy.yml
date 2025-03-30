@@ -24,13 +24,13 @@ jobs:
 
     - name: Install pyenv and Python 2
       run: |
-	curl https://pyenv.run | bash
-	export PATH="$HOME/.pyenv/bin:$PATH"
-	eval "$(pyenv init --path)"
-	eval "$(pyenv init -)"
-	eval "$(pyenv virtualenv-init -)"
-	pyenv install 2.7.18
-	pyenv global 2.7.18
+        curl https://pyenv.run | bash
+        export PATH="$HOME/.pyenv/bin:$PATH"
+        eval "$(pyenv init --path)"
+        eval "$(pyenv init -)"
+        eval "$(pyenv virtualenv-init -)"
+        pyenv install 2.7.18
+        pyenv global 2.7.18
 
     - name: Install dependencies
       run: |
