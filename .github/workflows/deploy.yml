@@ -23,8 +23,8 @@ jobs:
 
     - name: Install dependencies
       run: |
-    	gem install bundler:2.2.34
-    	bundle _2.2.34_ install --jobs 4 --retry 3
+        gem install bundler:2.2.34
+        bundle _2.2.34_ install --jobs 4 --retry 3
 
     - name: Enable bundler cache
       uses: actions/cache@v4
@@ -37,7 +37,7 @@ jobs:
     - name: Install deps
       run: |
         gem install bundler:2.2.34
-	bundle _2.2.34_ install --jobs 4 --retry 3
+        bundle _2.2.34_ install --jobs 4 --retry 3
         npm install -g mermaid.cli
 
     - name: Setup deploy options
@@ -59,4 +59,3 @@ jobs:
         yes | bash bin/deploy --verbose ${{ env.NO_PUSH }} \
           --src ${{ env.SRC_BRANCH }} \
           --deploy ${{ env.DEPLOY_BRANCH }}
-
