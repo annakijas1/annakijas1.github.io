@@ -39,6 +39,7 @@ jobs:
         gem install bundler:2.2.34
         bundle _2.2.34_ install --jobs 4 --retry 3
         npm install -g mermaid.cli
+        sudo apt-get install -y imagemagick # Install ImageMagick
 
     - name: Setup deploy options
       id: setup
@@ -51,7 +52,7 @@ jobs:
         elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. master, source etc
           echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
         fi
-        echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_ENV
+        echo "DEPLOY_BRANCH=main" >> $GITHUB_ENV
 
     - name: Deploy website 
       run: |
