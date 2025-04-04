@@ -43,7 +43,7 @@ jobs:
         if [[ ${GITHUB_REF} = refs/pull/*/merge ]]; then # pull request
           echo "SRC_BRANCH=${GITHUB_HEAD_REF}" >> $GITHUB_ENV
           echo "NO_PUSH=--no-push" >> $GITHUB_ENV
-        elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. master, source etc
+        elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. main, source etc
           echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
         fi
         echo "DEPLOY_BRANCH=main" >> $GITHUB_ENV
