@@ -25,6 +25,7 @@ jobs:
       run: |
         gem install bundler:2.2.34
         bundle _2.2.34_ install --jobs 4 --retry 3
+        npm install -g mermaid.cli
 
     - name: Enable bundler cache
       uses: actions/cache@v4
@@ -33,13 +34,6 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
-
-    - name: Install deps
-      run: |
-        gem install bundler:2.2.34
-        bundle _2.2.34_ install --jobs 4 --retry 3
-        npm install -g mermaid.cli
-        sudo apt-get install -y imagemagick # Install ImageMagick
 
     - name: Setup deploy options
       id: setup
