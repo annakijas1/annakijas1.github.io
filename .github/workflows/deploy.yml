@@ -25,6 +25,7 @@ jobs:
       run: |
         gem install bundler:2.2.34
         bundle _2.2.34_ install --jobs 4 --retry 3
+        npm install -g mermaid.cli
 
     - name: Enable bundler cache
       uses: actions/cache@v4
@@ -34,13 +35,6 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-gems-
 
-    - name: Install deps
-      run: |
-        gem install bundler:2.2.34
-        bundle _2.2.34_ install --jobs 4 --retry 3
-        npm install -g mermaid.cli
-        sudo apt-get install -y imagemagick # Install ImageMagick
-
     - name: Setup deploy options
       id: setup
       run: |
@@ -49,7 +43,7 @@ jobs:
         if [[ ${GITHUB_REF} = refs/pull/*/merge ]]; then # pull request
           echo "SRC_BRANCH=${GITHUB_HEAD_REF}" >> $GITHUB_ENV
           echo "NO_PUSH=--no-push" >> $GITHUB_ENV
-        elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. master, source etc
+        elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. main, source etc
           echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
         fi
         echo "DEPLOY_BRANCH=main" >> $GITHUB_ENV
