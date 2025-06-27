@@ -29,7 +29,7 @@ Article length: 7,500-9,500 words
 
 Prospective authors are invited to submit an abstract outlining their proposed article by July 25, 2025. Decisions about the abstracts will be communicated by August 1. Final articles should be 7,500-9,500 words (including bibliographic references). The issues will use an open peer review process in which article authors review two manuscripts by other contributors. As part of submitting an article proposal, authors will be asked to commit to participation in this process as both an author and a reviewer.  
 
-Important dates
+**Important dates**
 - July 25, 2025 – Article proposals due
 - August 1, 2025 – Author notifications 
 - December 15, 2025 – Article manuscripts due 
