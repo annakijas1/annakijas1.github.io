@@ -39,7 +39,7 @@ Important dates
 - March 15, 2026 - Revised articles due to guest editors
 - April 2026 – Finalize manuscripts / submit for publication
 
-Inquiries about the planned issues and ideas for articles should be directed to Anna Kijas and Andreas Segerberg, Guest Co-Editors of *Library Trends* (anna.kijas at tufts.edu / andreas.segerberg at gu.se). Proposals for articles should be submitted via an [online proposal form](https://forms.gle/EV1v44MXiLDNGdn38). Proposals are due July 25, 2025.
+Inquiries about the planned issues and ideas for articles should be directed to Anna Kijas and Andreas Segerberg, Guest Co-Editors of *Library Trends* (anna.kijas at tufts.edu / andreas.segerberg at gu.se). Proposals for articles should be submitted via an [online proposal form](https://forms.gle/XBEcSSh5hwRS8Mag8). Proposals are due July 25, 2025.
 
 Citation Style: For proposals, authors may use any citation style. For manuscripts, authors should use the Chicago Manual of Style’s author-date format.
 
