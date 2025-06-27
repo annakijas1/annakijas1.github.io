@@ -4,6 +4,7 @@ title: About
 permalink: /
 subtitle:
 
+
 profile:
   align: right
   image: mla-portland.jpg
@@ -14,6 +15,11 @@ profile:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
 I am the Assistant Director of [Digital Scholarship](https://tischlibrary.tufts.edu/about-library/about/staff-directory/departments/235) & [Lilly Music Library](https://tischlibrary.tufts.edu/our-locations/tisch-branches/lilly-music-library) at Tufts University. My academic training includes master’s degrees in library and information science from Simmons College, music with a concentration in musicology from Tufts University, as well as a bachelor of arts in music literature and performance from Northeastern University. I am also the co-founder of [Saving Ukrainian Cultural Heritage Online](https://www.sucho.org/), an initiative focused on safeguarding and preserving the digital cultural heritage of Ukraine during the Russo-Ukrainian War.
