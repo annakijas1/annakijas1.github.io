@@ -27,7 +27,7 @@ Potential topics may include:
 
 Article length: 7,500-9,500 words
 
-Prospective authors are invited to submit an abstract outlining their proposed article by July 25, 2025. Decisions about the abstracts will be communicated by August 1. Final articles should be 7,500-9,500 words (including bibliographic references). The issues will use an open peer review process in which article authors review two manuscripts by other contributors. As part of submitting an article proposal, authors will be asked to commit to participation in this process as both an author and a reviewer.  
+Prospective authors are invited to submit an abstract outlining their proposed article by **July 25, 2025**. Decisions about the abstracts will be communicated by **August 1, 2025**. Final articles should be 7,500-9,500 words (including bibliographic references). The issues will use an open peer review process in which article authors review two manuscripts by other contributors. As part of submitting an article proposal, authors will be asked to commit to participation in this process as both an author and a reviewer.  
 
 **Important dates**
 - July 25, 2025 – Article proposals due
@@ -39,7 +39,7 @@ Prospective authors are invited to submit an abstract outlining their proposed a
 - March 15, 2026 - Revised articles due to guest editors
 - April 2026 – Finalize manuscripts / submit for publication
 
-Inquiries about the planned issues and ideas for articles should be directed to Anna Kijas and Andreas Segerberg, Guest Co-Editors of *Library Trends* (anna.kijas at tufts.edu / andreas.segerberg at gu.se). Proposals for articles should be submitted via an [online proposal form](https://forms.gle/XBEcSSh5hwRS8Mag8). Proposals are due July 25, 2025.
+Inquiries about the planned issues and ideas for articles should be directed to Anna Kijas (Tufts University) and Andreas Segerberg (University of Gothenburg), Guest Co-Editors of *Library Trends* (anna.kijas at tufts.edu / andreas.segerberg at gu.se). Proposals for articles should be submitted via an [online proposal form](https://forms.gle/XBEcSSh5hwRS8Mag8). **Proposals are due July 25, 2025.**
 
 Citation Style: For proposals, authors may use any citation style. For manuscripts, authors should use the Chicago Manual of Style’s author-date format.
 
