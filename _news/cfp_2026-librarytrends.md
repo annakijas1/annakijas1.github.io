@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-## CFP - Special issue, "Cultural Heritage in Crisis" to be published in [*Library Trends*](https://www.press.jhu.edu/journals/library-trends), 75(1), 2026.
+## CFP - Special issue, "Cultural Heritage in Crisis" to be published in [*Library Trends*](https://www.press.jhu.edu/journals/library-trends), 75(3), 2026.
 
 In a recent issue of *Nationalism and Ethnic Politics*, Aronson et al write: “Cultural heritage represents the physical manifestation of the culture and history of a social group and forms a major component of its identity."[^1] A people’s culture, history, and social identity can be destroyed, censored, suppressed, purged, or rewritten through attacks on their cultural heritage as well as the institutions and systems that support and preserve the creation of knowledge, free speech, and artistic expression. Within the last three years alone, we have witnessed attempts by individuals, governments, and extremist groups to destroy a people’s culture and identity - whether through deliberate action or ignorance -  with the invasion of Ukraine in February 2022, war in Gaza in October 2023, and in 2025 the intentional removal and revision of content about the history of women, LGBTQIA+ people, immigrants, and people of color from government pages in the United States. 
 
