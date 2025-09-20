@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: mla-portland.jpg
+  image: kijas2022.jpg
   address: >
    <hr>
    <p style="text-align:center"><a href="https://annakijas1.github.io/assets/pdf/2025_Kijas_CV.pdf">My C.V.</a></p>
