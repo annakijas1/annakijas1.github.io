@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: https://annakijas1.github.io/assets/img/kijas2022.jpg
+  image:
   address: >
    <hr>
    <p style="text-align:center"><a href="https://annakijas1.github.io/assets/pdf/2025_Kijas_CV.pdf">My C.V.</a></p>
