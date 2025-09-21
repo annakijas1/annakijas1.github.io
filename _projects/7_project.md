@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Burns Antiphoner
-description: The Burns Antiphoner is an interactive and open access resource with a dynamic presentation layer through which content (metadata, music notation, textual incipits) and multimedia based on the encoded inventory and data from a 14th-century Franciscan antiphoner can be queried and viewed. The manuscript has 119 parchment folios with text and notation for antiphons and responsories for the entire annual calendar of saints’ days. 
-img: assets/img/antiphoner.png
-redirect: https://osf.io/2sauf/ 
-importance: 7
+title: Morales Mass Book
+description: An open-access companion site to the First Book of Masses by Cristóbal de Morales (ca. 1550-1553), a Spanish composer at the Papal Chapel in Rome. The project explores the Missarum liber primus (Lyon: Moderne, 1546), focusing on the composer, the printer, and the processes that informed the composition of four of Morales’s polyphonic masses. 
+img: assets/img/morales-missa-ave-maris-stella.jpg
+redirect: https://moralesmassbook.bc.edu/
+importance: 8
 category: DH
 ---
