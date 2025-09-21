@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Séamus Connolly Collection of Irish Music
-description: This digital collection features traditional tunes and songs collected by master fiddle player Séamus Connolly, Sullivan Artist in Residence in Irish Music at Boston College (2004 to 2015) and National Heritage Fellow (2013). Freely available, the collection offers over 330 audio recordings featuring more than 130 musicians via SoundCloud, with accompanying stories, transcriptions, and introductory essays. 
-img: https://i1.sndcdn.com/artworks-000168395362-7ba8ux-t1080x1080.jpg
-redirect: https://connollymusiccollection.bc.edu/
+title: Morales Mass Book
+description: An open-access companion site to the First Book of Masses by Cristóbal de Morales (ca. 1550-1553), a Spanish composer at the Papal Chapel in Rome. The project explores the Missarum liber primus (Lyon: Moderne, 1546), focusing on the composer, the printer, and the processes that informed the composition of four of Morales’s polyphonic masses. 
+img: assets/img/morales-missa-ave-maris-stella.jpg
+redirect: https://moralesmassbook.bc.edu/
 importance: 6
 category: DH
 ---

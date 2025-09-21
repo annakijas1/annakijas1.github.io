@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Morales Mass Book
-description: An open-access companion site to the First Book of Masses by Cristóbal de Morales (ca. 1550-1553), a Spanish composer at the Papal Chapel in Rome. The project explores the Missarum liber primus (Lyon: Moderne, 1546), focusing on the composer, the printer, and the processes that informed the composition of four of Morales’s polyphonic masses. 
-img: assets/img/morales-missa-ave-maris-stella.jpg
-redirect: https://moralesmassbook.bc.edu/
+title:  Additional Projects
+description: A selection of projects that I collaborated on or developed while at Boston College, including "Séamus Connolly Collection of Irish Music," "Morales Mass Book," "John La Farge, Stained Glass in New England," "Jesuit Online Bibliography," "Burns Antiphoner," and "The Becker Collection - Drawings of the American Civil War Era."  
+img: assets/img/antiphoner.png
+redirect: https://ds.bc.edu/projects-portfolio/
 importance: 7
 category: DH
 ---
