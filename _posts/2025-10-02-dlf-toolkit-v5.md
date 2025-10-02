@@ -41,7 +41,8 @@ Proposals will be peer-reviewed for clarity, feasibility, accessibility, reusabi
 - Jessica H. Grimmer (University of Maryland), jgrimmer at umd.edu
 - Anna E. Kijas (Tufts University), anna.kijas at tufts.edu 
 
-- [Submit here](https://forms.gle/3ho9z22PFCt5xJCD6) 
+### Submit Proposals
+- [Submission form](https://forms.gle/3ho9z22PFCt5xJCD6) 
 - [Toolkit Template](https://docs.google.com/document/d/1uOg_wutMv1y8LAyfS3QMQslZn4si4gPqnp5im7WW_4k/edit?usp=sharing)
 - [Code of Conduct](https://www.diglib.org/about/code-of-conduct/)
 
