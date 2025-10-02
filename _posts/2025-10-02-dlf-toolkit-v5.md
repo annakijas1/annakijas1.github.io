@@ -46,4 +46,6 @@ Proposals will be peer-reviewed for clarity, feasibility, accessibility, reusabi
 - [Toolkit Template](https://docs.google.com/document/d/1uOg_wutMv1y8LAyfS3QMQslZn4si4gPqnp5im7WW_4k/edit?usp=sharing)
 - [Code of Conduct](https://www.diglib.org/about/code-of-conduct/)
 
+
+#### Footnote
 [^1]: See for example: Constance Crompton, Laura Estill, Richard J. Lane, and Raymond George Siemens, eds., The Companion to Digital Humanities in Practice (New York: Routledge, 2025); Isabel Martínez, Irma Victoria Montelongo, Nicholas Daniel Natividad, and Ángel David Nieves, eds, Crossing Digital Fronteras: Rehumanizing Latinx Education and Digital Humanities (Albany: State University of New York Press, 2024); Brian Croxall and Diane K. Jakacki, eds., What We Teach When We Teach DH: Digital Humanities in the Classroom (Minneapolis, MN: University of Minnesota Press, 2024); Andie Silva and Scott Schofield, eds., Digital Pedagogy in Early Modern Studies: Method and Praxis (New York: Iter Press, 2024); Kathryn Brown, ed., The Routledge Companion to Digital Humanities and Art History (Milton Park, Abingdon: Taylor & Francis Ltd, 2020); John E. Russell and Merinda Kaye Hensley, “Beyond Buttonology: Digital Humanities, Digital Pedagogy, and the ACRL Framework,” C&RL News (December 2017): 588-600.
