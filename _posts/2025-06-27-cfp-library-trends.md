@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CFP - Special issue
+title: CFP - Special issue, "Cultural Heritage in Crisis," Library Trends
 date: 2025-06-27
 description:
 permalink: /cfp-library-trends-75/
