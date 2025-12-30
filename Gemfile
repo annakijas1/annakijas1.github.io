@@ -21,5 +21,5 @@ group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
 end
-gem 'uri', '1.0.3'
+gem 'uri', '1.0.4'
 gem 'bundler', '~> 2.2.0'
