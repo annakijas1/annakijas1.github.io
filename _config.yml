@@ -233,11 +233,9 @@ max_author_limit: 5
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: false
+  enabled: true
   widths:
-    - 480
-    - 800
-    - 1400
+    - 300
 
   input_directories:
     - assets/img/
