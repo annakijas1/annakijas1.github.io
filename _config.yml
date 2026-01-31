@@ -56,7 +56,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: annakijas1 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
 bluesky_url: akijas.bsky.social
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
@@ -227,7 +226,7 @@ scholar:
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website] # Filter out certain bibtex entry keywords used internally from the bib output
 
 # Maximum number of authors to be shown, other authors will be visible on hover, leave blank to show all authors
-max_author_limit: 3
+max_author_limit: 5
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
@@ -236,7 +235,6 @@ max_author_limit: 3
 imagemagick:
   enabled: true
   widths:
-    - 320
     - 480
     - 800
     - 1400
@@ -248,7 +246,7 @@ imagemagick:
     - ".png"
     - ".tiff"
   output_formats:
-    webp: "-resize 800x"
+    webp: "-auto-orient -quality 85"
     
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
