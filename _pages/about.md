@@ -9,7 +9,7 @@ profile:
   image: kijas2022.jpg
   address: >
    <hr>
-   <p style="text-align:center"><a href="https://annakijas1.github.io/assets/pdf/2026_Kijas_CV.pdf">My C.V.</a></p>
+   <p style="text-align:center"><a href="https://annakijas1.github.io/assets/pdf/2026_Kijas_CV_v2.pdf">My C.V.</a></p>
    <hr>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
