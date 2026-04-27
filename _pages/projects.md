@@ -7,7 +7,7 @@ nav: true
 horizontal: false
 ---
 
-This is a selection of my projects. Additional projects are listed in [my C.V.](https://annakijas1.github.io/assets/pdf/2026_Kijas_CV_v2.pdf)
+This is a selection of my projects. Additional projects are listed in [my C.V.](https://annakijas1.github.io/assets/pdf/2026-Kijas_CV_v2.pdf)
 
 
 <!-- pages/projects.md -->

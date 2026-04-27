@@ -8,5 +8,5 @@ children:
       permalink: /press/
     - title: divider
     - title: CV
-      permalink: https://annakijas1.github.io/assets/pdf/2026_Kijas_CV_v2.pdf
+      permalink: https://annakijas1.github.io/assets/pdf/2026-Kijas_CV_v2.pdf
 ---
